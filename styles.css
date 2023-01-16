@@ -56,20 +56,30 @@ body {
 
 .description {
   font-weight: 400;
-  font-size: 1vh;
+  font-size: 1.25vh;
+}
+
+.text-content {
+  width: 80%;
+  text-align: center;
 }
 
 .location {
+  margin-top: 1vh;
+  margin-bottom: 3vh;
   font-weight: 400;
-  font-size: 2vh;
+  font-size: 1.5vh;
+  color: #476098;
 }
 
 .question {
+  margin-top: 1vh;
   font-weight: 500;
   font-size: 1.5vh;
+  color: #476098;
 }
 
 .answer {
   font-weight: 400;
-  font-size: 1vh;
+  font-size: 1.25vh;
 }
